@@ -363,6 +363,7 @@ a {
 
 .portfolio .title h3{
     font-weight: 300;
+    color: var(--sky-800);
 }
 
 .portfolio .img-container{
